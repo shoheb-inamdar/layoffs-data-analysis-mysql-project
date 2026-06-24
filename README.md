@@ -14,7 +14,6 @@ The main objective of this project was to transform raw data into meaningful ins
 
 - MySQL
 - SQL
-- GitHub
 
 ---
 
